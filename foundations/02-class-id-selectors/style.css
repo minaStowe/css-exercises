@@ -1,0 +1,18 @@
+p {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.secondEl {
+    color: blue;
+    font-size: 36px;
+}
+
+.changeFontSize{
+    font-size: 24px;
+}
+
+#fourthEl {
+    background-color: lightgreen;
+    font-weight: bold;
+}
