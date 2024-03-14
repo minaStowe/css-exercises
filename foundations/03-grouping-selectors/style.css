@@ -1,0 +1,15 @@
+.clickMe,
+.yellowBtn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickMe {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellowBtn {
+    background-color: yellow;
+}
