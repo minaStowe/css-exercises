@@ -4,3 +4,14 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* 
+
+Can also use these combinations:
+
+div p
+div > p
+div .text
+.container p 
+
+*/
